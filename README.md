@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi I'M GERO KRAMAR👋
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gerokramar)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gerokramar/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Gerokramar@gmail.com)
+
+Welcome to my Github page! I am Geronimo Kramar and I am currently finishing my Computer Engineering Master degree at the university Kennedy! 
+
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
