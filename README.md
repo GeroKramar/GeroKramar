@@ -28,7 +28,8 @@ const aboutMe = {
 ```
 </br></br>
 <h2>💻 Some stats 💻</h2>
-#### 🌱 Things I am currently working on: 
+
+### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
 - Taking online courses about FullStack web develop and Machine Learnin.
 
