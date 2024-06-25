@@ -28,17 +28,20 @@ const aboutMe = {
 ```
 </br></br>
 <h2>💻 Some stats 💻</h2>
-<!--
-**GeroKramar/GeroKramar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌱 Things I am currently working on: 
+- Finish my Computer Engineering Master Degree  
+- Taking online courses about FullStack web develop and Machine Learnin.
 
-Here are some ideas to get you started:
+### 👩‍💻 I'm working on
+- Building projects and my portfolio website. 
+Although, I think I'll wait to learn Docker before I build the website.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Goals for 2024
+- Complete #100DaysOfCode challenge
+- Build 30+ projects 
+- Become skilled in JavaScript
+- Complete coding bootcamp
+- Learn english fluently
+
+<br>
+<br>
